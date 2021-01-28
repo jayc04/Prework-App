@@ -6,9 +6,7 @@ My first repository on Github and my CodePath Assignment
 `TODO://` The Prework app allows the user to change the text on the screen, as well as change the background color, and lastly allows the user to change the color of the text that on the screen. 
 ### App Walk-though
 
-![](https://i.imgur.com/GHpvVJN.gif)
-![](https://i.imgur.com/Pa8j4cP.gif)
-![](https://i.imgur.com/lzWaqtZ.gif)
+<img src="http://g.recordit.co/9pE91YSc6t.gif" width=200><br>
 
 
 
